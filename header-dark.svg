@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="170" viewBox="0 0 880 170">
+  <style>
+    .n { font: 600 46px ui-sans-serif, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: -1.2px; fill: #e6edf3; }
+    .s { font: 400 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8b949e; }
+    .a { fill: #3fb950; }
+  </style>
+  <text x="2" y="70" class="n">Youvandra Febrial</text>
+  <text x="4" y="108" class="s"><tspan class="a">●</tspan>  building on-chain since 2021 · shipping software since 2018</text>
+  <text x="4" y="134" class="s">   solana · evm · hedera · ai agents that hold money</text>
+  <line x1="4" y1="160" x2="876" y2="160" stroke="#30363d" stroke-width="1"/>
+</svg>
