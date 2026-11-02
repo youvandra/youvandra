@@ -10,7 +10,7 @@ $ cat now.txt
   a hackathon most weekends
 
 $ cat record.txt
-  25+ hackathons led · 17 awards · $100k+ in prizes · 50+ devs taught
+  25+ hackathons led · 17 awards · $110k+ in prizes · 50+ devs taught
 ```
 
 ### Shipped
